@@ -26,7 +26,7 @@ The node-thunderboard-react provides you with the APIs as follows:
 
 ## Installation
 ```
-$ npm install node-thunderboard-react
+$ npm install node-thunderboard-react --unsafe-perm --build-from-source
 ```
 ---------------------------------------
 ## Table of Contents
